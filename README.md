@@ -27,7 +27,9 @@ things down / problem-solving
 
 ## Good advice
 - Go slowly
-- Write tests for edge cases (0, negatives, etc)
+- Input (what given), Output (what need to return)
+- Write stubs first eg if it's a bool to check if true or false, do like C++ stubs 
+- Write tests for edge cases (0, negatives, not of type requested etc)
 - Ask for details (size of data, how contained, what type)
 - Remember to be specific and clear when naming variables
 - Comment code as needed
