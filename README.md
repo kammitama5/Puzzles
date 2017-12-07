@@ -26,6 +26,7 @@ notes involving interview stuff, graphs, algorithms, etc
 - Ask for details (size of data, how contained, what type)
 - Remember to be specific and clear when naming variables
 - Comment code as needed
+- If you find a bug, don't randomly try to fix output. Try to trace *why* it occurrs
 
 
 
