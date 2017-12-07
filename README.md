@@ -1,5 +1,9 @@
 # Puzzles
 notes involving interview stuff, graphs, algorithms, etc
+I hope that I can have this as a life-long reference for interviewing and generally breaking
+things down / problem-solving
+
+## Topics
 
 - Eulerian Path 
   - degree is the number of edges connected to that node.
@@ -21,13 +25,13 @@ notes involving interview stuff, graphs, algorithms, etc
 - Hash Tables 
 
 ## Good advice
-- Write tests for edge cases (0, negatives, etc)
 - Go slowly
+- Write tests for edge cases (0, negatives, etc)
 - Ask for details (size of data, how contained, what type)
 - Remember to be specific and clear when naming variables
 - Comment code as needed
 - If you find a bug, don't randomly try to fix output. Try to trace *why* it occurrs
-
+- Break each verbal question into: 1. situation, 2. action, 3. response 
 
 
 
