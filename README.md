@@ -6,5 +6,6 @@ notes involving interview stuff, graphs, algorithms, etc
   - first and last have to be odd and the rest even \
 - Eulerian Tour 
   - start and return to same node
+  ![et.png](et.png)
 - Min-max
 - Perms and Combs
