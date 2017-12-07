@@ -7,5 +7,6 @@ notes involving interview stuff, graphs, algorithms, etc
 - Eulerian Tour 
   - start and return to same node
   ![et.png](et.png)
+  ![et_path.png](et_path.png)
 - Min-max
 - Perms and Combs
