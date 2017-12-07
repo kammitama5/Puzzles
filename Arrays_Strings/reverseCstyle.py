@@ -13,12 +13,12 @@ def reverse(string):
       return string
 	## pop and push to array, and join the chars of the array
     else:
-     arr = []
-     a = list(string)
-     while len(a) > 0:
-       arr.append(a.pop())
-     b =  "".join(arr)
-     return b
+     stackarr = []
+     listofchars = list(string)
+     while len(listofchars) > 0:
+       stackarr.append(listofchars.pop())
+     joinedarray =  "".join(stasckarr)
+     return joinedarray
   except:
     return "Exception: Not of type string"
     
