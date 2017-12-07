@@ -23,6 +23,7 @@ things down / problem-solving
 - Queues
 - Vectors/ ArrayLists
 - Hash Tables 
+- Regex
 
 ## Good advice
 - Go slowly
