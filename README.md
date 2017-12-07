@@ -11,3 +11,5 @@ notes involving interview stuff, graphs, algorithms, etc
 - Min-max
 - Perms and Combs
 - Divide and Conquer
+- Recurrence relation 
+
