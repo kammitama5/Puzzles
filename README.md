@@ -21,6 +21,7 @@ notes involving interview stuff, graphs, algorithms, etc
 - Hash Tables 
 
 ## Good advice
+- Write tests for edge cases (0, negatives, etc)
 - Go slowly
 - Ask for details (size of data, how contained, what type)
 - Remember to be specific and clear when naming variables
