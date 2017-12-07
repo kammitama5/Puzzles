@@ -12,4 +12,13 @@ notes involving interview stuff, graphs, algorithms, etc
 - Perms and Combs
 - Divide and Conquer
 - Recurrence relation 
+- Linked Lists
+- Binary Trees
+- Tries
+- Stacks
+- Queues
+- Vectors/ ArrayLists
+- Hash Tables 
+
+
 
