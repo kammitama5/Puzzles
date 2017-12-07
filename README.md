@@ -20,5 +20,13 @@ notes involving interview stuff, graphs, algorithms, etc
 - Vectors/ ArrayLists
 - Hash Tables 
 
+## Good advice
+- Go slowly
+- Ask for details (size of data, how contained, what type)
+- Remember to be specific and clear when naming variables
+- Comment code as needed
+
+
+
 
 
