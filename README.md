@@ -10,3 +10,4 @@ notes involving interview stuff, graphs, algorithms, etc
   ![et_path.png](et_path.png)
 - Min-max
 - Perms and Combs
+- Divide and Conquer
