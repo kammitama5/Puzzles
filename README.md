@@ -54,6 +54,9 @@ for line in myFile:
     print line   
 ```
 
+- Dicts (ugh)
+  - If you need an ordered list -> ```collections.OrderedDict data``` documentation is your friend.
+
 ## Good advice
 - Go slowly
 - Input (what given), Output (what need to return)
