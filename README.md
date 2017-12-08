@@ -43,6 +43,16 @@ things down / problem-solving
 ## Other 
 - Parsing Files in JSON
 - File I/O
+```
+myFile = open(filename, 'w')
+myFile.read
+myFile.write('Yo mamma\n')
+
+bool-> myFile.closed ## should return True
+
+for line in myFile:
+    print line   
+```
 
 ## Good advice
 - Go slowly
