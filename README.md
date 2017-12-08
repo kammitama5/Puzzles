@@ -65,6 +65,10 @@ for line in myFile:
 - If you find a bug, don't randomly try to fix output. Try to trace *why* it occurrs
 - Break each verbal question into: 1. situation, 2. action, 3. response 
 
+## Other Resources
+
+- [Python Exercism](http://exercism.io/languages/python/about)
+
 
 
 
