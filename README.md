@@ -39,6 +39,11 @@ things down / problem-solving
 ## Sorting and Searching
 - Bubble, Heap, Merge, etc 
 
+
+## Other 
+- Parsing Files in JSON
+- File I/O
+
 ## Good advice
 - Go slowly
 - Input (what given), Output (what need to return)
