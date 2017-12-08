@@ -25,6 +25,20 @@ things down / problem-solving
 - Hash Tables 
 - Regex
 
+## Lambdas
+- filter => ```list(filter(lambda x: x < 1, list1)```
+- map => ```(list(map(lamda x: x**2,items)```
+- reduce => ```from functools import reduce => reduce((lambda x, y: x * y), [1,2,3,4]) => outputs 24```
+
+## LinkedLists
+- stack pop, dequeue 
+
+## Time Complexity 
+- O(n) and all that good stuff
+
+## Sorting and Searching
+- Bubble, Heap, Merge, etc 
+
 ## Good advice
 - Go slowly
 - Input (what given), Output (what need to return)
