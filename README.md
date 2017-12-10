@@ -56,6 +56,30 @@ for line in myFile:
 
 - Dicts (ugh)
   - If you need an ordered list -> ```collections.OrderedDict data``` documentation is your friend.
+  
+- Classes and Methods
+
+```
+## class -> blueprint for creating instances
+
+# class
+class Employee:
+  def __init__(self, first, last, email, pay):
+    self.first = first
+    self.last = last
+    self.email = email
+    self.pay = pay
+  
+  # method
+  def fullname(self):
+    return "name = {}, {}".format(self.last, self.first)
+    
+emp_1 = Employee("Krystal","Maughan","krystal.maughan@gmail.com",120000)
+print "name : " + emp_1.first +  " " + emp_1.last # name : Krystal Maughan
+print "email :" + emp_1.email # email :krystal.maughan@gmail.com
+print "pay: ${}".format(emp_1.pay) # pay: $120000
+print emp_1.fullname() # name = Maughan, Krystal
+```
 
 ## Good advice
 - Go slowly
