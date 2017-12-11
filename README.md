@@ -88,6 +88,14 @@ def __init__(self, first, last, pay, prog_lang):
     ## similar to C++ derived classes :D
 ```
 
+- decorators -> ```@property```
+```
+@property
+  def email(self):
+    return '{}.{}@email.com'.format(self.first, self.last)
+    
+call -> print emp_1.email instead of emp_1.email() # dope!
+```
 
 - isinstance(instance, classname)
 
