@@ -87,6 +87,12 @@ for names, nums in zip(names, nums):
   
 print my_dict # prints {a:1, b:2, etc}
 ```
+
+- using list comprehension
+```
+my_dict = {names: nums for names, nums in zpi(names, nums)}
+print my_dict # prints {a:1, b:2, etc}
+```
   
 - Generators -> ```yield```
 
