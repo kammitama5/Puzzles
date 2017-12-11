@@ -75,6 +75,19 @@ print my_list # prints [4, 9, 16]
 - Dicts (ugh)
   - If you need an ordered list -> ```collections.OrderedDict data``` documentation is your friend.
   
+- Zip
+
+```
+names = ["a", "b","c","d"]
+nums = [1,2,3,4]
+
+my_dict = {}
+for names, nums in zip(names, nums):
+  my_dict[names] = nums
+  
+print my_dict # prints {a:1, b:2, etc}
+```
+  
 - Generators -> ```yield```
 
 ```
