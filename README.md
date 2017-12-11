@@ -66,6 +66,11 @@ for line in myFile:
 nums = [1,2,3,4]
 my_list = [n*2 for n in nums]
 print my_list # prints [2,4,6,8]
+
+nums = [1,2,3,4]
+my_list = [n*n for n in nums if n*n > 3]
+print my_list # prints [4, 9, 16]
+
 ```
 - Dicts (ugh)
   - If you need an ordered list -> ```collections.OrderedDict data``` documentation is your friend.
