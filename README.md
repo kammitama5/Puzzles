@@ -38,7 +38,9 @@ things down / problem-solving
 
 ## Sorting and Searching
 - Bubble, Heap, Merge, etc 
-
+- tuple sort vs list sort 
+- sort by abs ``` s = sorted(list1, key=abs) # would return [1,2,3,-4,-5]```
+- sort reverse ```s = sorted(list1, reverse=True)```
 
 ## Other 
 
