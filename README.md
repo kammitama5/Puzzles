@@ -108,6 +108,20 @@ def fib(num):
 for item in fib(10):
   print item
 ```
+- parson JSON
+```
+import json
+json.loads(var) # load
+json.dumps(var) # delete
+loop through
+indents-> json.dumps(var, indent=2) # indent twice
+
+with open('file.json') as f:
+  data = json.load(f) # load json file into python object
+  
+for i in data['key']:
+  print i # print out object for each key
+```
   
 ## OOP
   
