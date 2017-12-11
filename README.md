@@ -41,6 +41,7 @@ things down / problem-solving
 
 
 ## Other 
+
 - random -> ```import random, random.choice([1,2,3])```
   ```
   import random
@@ -59,7 +60,13 @@ bool-> myFile.closed ## should return True
 for line in myFile:
     print line   
 ```
+- list comprehension
 
+```
+nums = [1,2,3,4]
+my_list = [n*2 for n in nums]
+print my_list # prints [2,4,6,8]
+```
 - Dicts (ugh)
   - If you need an ordered list -> ```collections.OrderedDict data``` documentation is your friend.
   
