@@ -41,6 +41,12 @@ things down / problem-solving
 
 
 ## Other 
+- random -> ```import random, random.choice([1,2,3])```
+  ```
+  import random
+  random.seed(20)
+  random.randint(1,100)
+  ```
 - Parsing Files in JSON
 - File I/O
 ```
