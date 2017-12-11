@@ -80,6 +80,16 @@ print "email :" + emp_1.email # email :krystal.maughan@gmail.com
 print "pay: ${}".format(emp_1.pay) # pay: $120000
 print emp_1.fullname() # name = Maughan, Krystal
 ```
+- super (is different in Python2 vs Python3..argh)
+
+```
+def __init__(self, first, last, pay, prog_lang):
+    Employee.__init__(self,first, last, pay)## lets base class instantiate
+    ## similar to C++ derived classes :D
+```
+
+
+- isinstance(instance, classname)
 
 ## Good advice
 - Go slowly
