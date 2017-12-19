@@ -3,6 +3,13 @@ notes involving interview stuff, graphs, algorithms, etc
 I hope that I can have this as a life-long reference for interviewing and generally breaking
 things down / problem-solving
 
+## Basics
+
+```
+// - bitwise operation => divides one int by another, rounding the answer down to an integer
+     Also rounds down even if the answer is negative.
+```
+
 ## Topics
 
 - Eulerian Path 
