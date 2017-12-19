@@ -9,7 +9,10 @@ things down / problem-solving
 // - bitwise operation => divides one int by another, rounding the answer down to an integer
      Also rounds down even if the answer is negative.
 ```
-
+```
+.title() -> "Happy Birthday"
+.islower() -> Boolean value
+```
 ## Topics
 
 - Eulerian Path 
