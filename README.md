@@ -13,6 +13,21 @@ things down / problem-solving
 .title() -> "Happy Birthday"
 .islower() -> Boolean value
 ```
+
+## Docstrings/ Documentation
+
+```
+Functions
+
+def double(number):
+    """Calculate the double of a number.
+
+    number: int. The number to be doubled
+    
+    """
+    return number
+```
+
 ## Topics
 
 - Eulerian Path 
