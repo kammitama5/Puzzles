@@ -32,6 +32,13 @@ def double(number):
 - add to set ```list1.add("Mad Hatter")```
 - pop ```list1.pop()```
 
+## Dictionaries 
+
+- if ```dict = {}```
+  dict.get('elem') returns ```None```
+  instead of ```KeyError```
+
+
 ## Topics
 
 - Eulerian Path 
