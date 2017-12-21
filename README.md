@@ -38,6 +38,9 @@ def double(number):
   dict.get('elem') returns ```None```
   instead of ```KeyError```
 
+## Tuples
+- immutable
+- can't sort in place
 
 ## Topics
 
