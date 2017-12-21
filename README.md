@@ -60,6 +60,14 @@ def create_cast_list(filename):
 # appends first value
 ```
 
+## Modules
+- import multiple modules at once 
+
+```from collections import defaultdict, namedtuple```
+- import as 
+```import pandas as pd```
+- then access such as ```pd.read()```
+
 ## Topics
 
 - Eulerian Path 
