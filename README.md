@@ -27,6 +27,10 @@ def double(number):
     """
     return number
 ```
+## Sets
+- remove duplicates ```set(list1)```
+- add to set ```list1.add("Mad Hatter")```
+- pop ```list1.pop()```
 
 ## Topics
 
