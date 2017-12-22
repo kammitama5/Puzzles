@@ -60,6 +60,15 @@ def create_cast_list(filename):
 # appends first value
 ```
 
+## WebScraping
+
+```
+html = urlopen("")
+- two possible exceptions:
+     1. Page not found on server (or error in retrieving it)
+     2. Server not found
+```
+
 ## Modules
 - import multiple modules at once 
 
