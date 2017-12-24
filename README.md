@@ -37,6 +37,14 @@ def double(number):
 - if ```dict = {}```
   dict.get('elem') returns ```None```
   instead of ```KeyError```
+ 
+## Use of * with lists, dictionaries and .format
+
+```
+(*value) will split a list into sliced formatting when using a list
+eg value = [1,2,3]
+"{:21} {:13} {:8}".format(*value) - read up on this
+```
 
 ## Tuples
 - immutable
