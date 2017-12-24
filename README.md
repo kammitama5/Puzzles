@@ -40,6 +40,8 @@ def double(number):
  
 ## Use of * with lists, dictionaries and .format
 
+- star operator is [unpacking value](https://stackoverflow.com/questions/2921847/what-does-the-star-operator-mean)
+- Also, see Python documentation [here](https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists)
 ```
 (*value) will split a list into sliced formatting when using a list
 eg value = [1,2,3]
