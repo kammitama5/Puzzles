@@ -109,6 +109,16 @@ html = urlopen("")
 - Hash Tables 
 - Regex
 
+
+## Jupyter Notebook
+
+```
+%pdb - Python debugger
+```
+
+[Built-in magic commands](http://ipython.readthedocs.io/en/stable/interactive/magics.html)
+
+
 ## Lambdas
 - filter => ```list(filter(lambda x: x < 1, list1)```
 - map => ```(list(map(lamda x: x**2,items)```
