@@ -126,6 +126,8 @@ html = urlopen("")
 
 - make notebook into slideshow : ```jupyter nbconvert notebook.ipynb --to slides```
 
+- to view : ```jupyter nbconvert notebook.ipynb --to slides --post serve```
+
 ## Lambdas
 - filter => ```list(filter(lambda x: x < 1, list1)```
 - map => ```(list(map(lamda x: x**2,items)```
