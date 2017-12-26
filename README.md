@@ -122,6 +122,10 @@ html = urlopen("")
 
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/usage.html)
 
+## Slideshow 
+
+[make notebook into slideshow](jupyter nbconvert notebook.ipynb --to slides)
+
 ## Lambdas
 - filter => ```list(filter(lambda x: x < 1, list1)```
 - map => ```(list(map(lamda x: x**2,items)```
