@@ -124,7 +124,7 @@ html = urlopen("")
 
 ## Slideshow 
 
-[make notebook into slideshow](jupyter nbconvert notebook.ipynb --to slides)
+- make notebook into slideshow : ```jupyter nbconvert notebook.ipynb --to slides)```
 
 ## Lambdas
 - filter => ```list(filter(lambda x: x < 1, list1)```
