@@ -118,6 +118,9 @@ html = urlopen("")
 
 [Built-in magic commands](http://ipython.readthedocs.io/en/stable/interactive/magics.html)
 
+## Convert Jupyter notebook to HTML, etc 
+
+- [nbconvert](https://nbconvert.readthedocs.io/en/latest/usage.html)
 
 ## Lambdas
 - filter => ```list(filter(lambda x: x < 1, list1)```
