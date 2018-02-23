@@ -3,6 +3,13 @@ notes involving interview stuff, graphs, algorithms, etc
 I hope that I can have this as a life-long reference for interviewing and generally breaking
 things down / problem-solving
 
+## Things I need to get better at:
+- Generators
+- Enums
+- Zip
+- List Comprehension
+- File I/O
+
 ## Basics
 
 ```
